@@ -1,1 +1,1 @@
-[htt](https://mycv-intern-fe.netlify.app/)
+[MyCV](https://mycv-intern-fe.netlify.app/)
