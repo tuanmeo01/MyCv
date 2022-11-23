@@ -13,12 +13,9 @@ export function App() {
   return (
     <BrowserRouter>
       <Helmet
-        titleTemplate="%s - React Boilerplate"
-        defaultTitle="React Boilerplate"
+        titleTemplate="%s - Nguyễn Văn Tuấn"
         htmlAttributes={{ lang: i18n.language }}
-      >
-        <meta name="description" content="A React Boilerplate application" />
-      </Helmet>
+      ></Helmet>
 
       <Routes>
         <Route path="/" element={<HomePage />} />
